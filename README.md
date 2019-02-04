@@ -1,5 +1,3 @@
-# Nile-Valley
-Nile Vallry TV shows and programs
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="+INFO",= JAN-29-2019
